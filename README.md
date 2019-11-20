@@ -1,6 +1,6 @@
 # Reveal in ForkLift
 
-A simple extension to reveal the current file in ForkLift.
+A simple vscode extension to reveal the current file in ForkLift.
 
 ForkLift is a Mac Application
 
